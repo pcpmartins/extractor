@@ -1,0 +1,6 @@
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/CMakeFiles/opencv_vq.dir
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/pedro/Documents/of_v0.9.8_linux64_release/apps/myApps/extractor/cmake-build-debug/src/CMakeFiles/src.dir
